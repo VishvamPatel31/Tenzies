@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j03e",
-  "description": "https://scrimba.com/frontend-path-c0j/~06v5/s01avqhsob/head",
+  "name": "Scrim-s06j04g",
+  "description": "https://scrimba.com/frontend-path-c0j/~057p",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -8,12 +8,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "19.0.0-rc-8b08e99e-20240713",
-    "react-dom": "19.0.0-rc-8b08e99e-20240713",
     "nanoid": "5.0.7",
-    "vite": "latest"
+    "react": "18.3.1",
+    "react-confetti": "6.1.0",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "^6.3.3"
   }
 }
